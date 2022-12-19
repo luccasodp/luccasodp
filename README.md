@@ -1,9 +1,9 @@
 ### Hi there, i'm Luccas Oliveira
 
-
+##
 <div align="center">
   <a href="https://github.com/luccasodp">
-  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=luccasodp&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="47%" src="https://github-readme-stats.vercel.app/api?username=luccasodp&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasodp&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 <div align="center" style="display: inline_block"><br>
